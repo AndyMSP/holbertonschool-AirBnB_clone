@@ -4,30 +4,3 @@ body {
     margin: 0px;
     padding: 0px;
 }
-
-body {
-    margin: 0px;
-    padding: 0px;
-}
-
-header {
-    background: #FF0000;
-    height: 60px;
-    width: 100%;
-}
-
-footer {
-    position: fixed;
-    bottom: 0px;
-    background: #00ff00;
-    height: 60px;
-    width: 100%;
-}
-
-p {
-    position: relative;
-    margin: 0px;
-    top: 50%;
-    transform: translatey(-50%);
-    text-align: center;
-}
